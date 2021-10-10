@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\yoe.cardenas\.nuget\packages\radzen.blazor\3.11.3\build\..\staticwebassets\" />
+</StaticWebAssets>

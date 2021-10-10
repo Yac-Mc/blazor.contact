@@ -1,0 +1,12 @@
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.deps.json
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.csprojAssemblyReference.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfoInputs.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfo.cs
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb

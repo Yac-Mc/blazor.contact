@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f1t8M45aBDIUhXg0jVCIHUgT7qiFIAgzx/GxNuGLaLs+quJOxxz8nwjgl3WWAgU4xZBlTisauYeVfYDU5SZcTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yoe.cardenas\\Desktop\\Yoe\\Cursos\\Udemy\\BlazorUltimate\\Seccion2\\Blazor.Contacts.Wasm\\Blazor.Contact.Wasm.Respositories\\Blazor.Contacts.Wasm.Respositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yoe.cardenas\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.csprojAssemblyReference.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.AssemblyInfoInputs.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.AssemblyInfo.cs
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.deps.json
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\ref\Blazor.Contacts.Wasm.Respositories.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.pdb
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.csproj.CoreCompileInputs.cache
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.csproj.CopyComplete
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Respositories.dll
+C:\Users\yoe.cardenas\Desktop\Yoe\Cursos\Udemy\BlazorUltimate\Seccion2\Blazor.Contacts.Wasm\Blazor.Contact.Wasm.Respositories\obj\Debug\net5.0\Blazor.Contacts.Wasm.Respositories.pdb

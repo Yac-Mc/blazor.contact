@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Blazor.Contacts.Wasm.Services/1.0.0": {
+        "dependencies": {
+          "Blazor.Contacts.Wasm.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Blazor.Contacts.Wasm.Services.dll": {}
+        }
+      },
+      "Blazor.Contacts.Wasm.Shared/1.0.0": {
+        "runtime": {
+          "Blazor.Contacts.Wasm.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blazor.Contacts.Wasm.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blazor.Contacts.Wasm.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
